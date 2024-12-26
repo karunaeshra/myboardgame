@@ -49,6 +49,7 @@ if not "%MAVEN_SKIP_RC%" == "" goto skipRcPre
 if exist "%USERPROFILE%\mavenrc_pre.bat" call "%USERPROFILE%\mavenrc_pre.bat" %*
 if exist "%USERPROFILE%\mavenrc_pre.cmd" call "%USERPROFILE%\mavenrc_pre.cmd" %*
 :skipRcPre
+# make sure follow this
 
 @setlocal
 
