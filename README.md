@@ -1,7 +1,8 @@
 # BoardgameListingWebApp
-
+![Project-Architecture](https://github.com/user-attachments/assets/547b165c-fed3-4049-a5bb-539ffe93053b)
 ## Description
-🚀This isn't just a pipeline - it's a full-blown, end-to-end CI/CD masterpiece! 🌟🎉
+🚀This isn't just a pipeline - it's a
+ full-blown, end-to-end CI/CD masterpiece! 🌟🎉
 
 🛠️ Key technologies and tools used:
 
